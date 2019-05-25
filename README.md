@@ -8,7 +8,7 @@ To run the project you must have configured the react environment on your comput
 
 ### Back end
 A backend provided by udacity and the front end that the student makes integrating together with the redux.
-To run the project integrally first access the api-server folder and install the node_modules folder. After the installation is done on the terminal, execute the node server command to start the server, which will start on port 3:001 "localhost: 3001".
+To run the project integrally first access the api-server folder and install the node_modules folder. After the installation is done on the terminal, execute the node server command to start the server, which will start on port 3001 "localhost: 3001".
 
 ### Front-end
 To run the front-end, open the "front-end" folder on the terminal by executing the "npm install" command. After the installation, run the "yarn start" or "npm start" command to start. The project will run on the react default port: "3000", "localhost: 3000"
