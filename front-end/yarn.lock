@@ -6918,9 +6918,9 @@ path-key@^2.0.0, path-key@^2.0.1:
   integrity sha1-QRyttXTFoUDTpLGRDUDYDMn0C0A=
 
 path-parse@^1.0.6:
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.6.tgz#d62dbb5679405d72c4737ec58600e9ddcf06d24c"
-  integrity sha512-GSmOT2EbHrINBf9SR7CDELwlJ8AENk3Qn7OikK4nFYAu3Ote2+JYNVvkpAEQm3/TLNEJFD/xZJjzyxg3KBWOzw==
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.7.tgz#fbc114b60ca42b30d9daf5858e4bd68bbedb6735"
+  integrity sha512-LDJzPVEEEPR+y48z93A0Ed0yXb8pAByGWo/k5YYdYgpY2/2EsOsksJrq7lOHxryrVOn1ejG6oAp8ahvOIQD8sw==
 
 path-to-regexp@0.1.7:
   version "0.1.7"
@@ -8112,10 +8112,10 @@ react-scripts@3.0.1:
   optionalDependencies:
     fsevents "2.0.6"
 
-react-timestamp@^5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/react-timestamp/-/react-timestamp-5.0.0.tgz#9469ae05713c01a4785dc2d12f9e6a84bd62bd25"
-  integrity sha512-Ig+LbeJn1BhGrGNh8qlbI0r4QcX/8BBphlmKF1w0HGEtBFR4Ge3NIASNm5TmsxPujUHgAKjgf0bnMD2LKdhGcQ==
+react-timestamp@^4.4.0:
+  version "4.4.0"
+  resolved "https://registry.yarnpkg.com/react-timestamp/-/react-timestamp-4.4.0.tgz#9fd6d48929924dc9b0b9665fe56bee9fb26fda74"
+  integrity sha512-nEEZ44RMR+NmjVm60z6+iZW12mJwQLNnW4t+eEce+LyTtNSyRRUzA0drX5j4hFva2qq+SR9IaFANaGZE5ZeZMw==
 
 react@^16.8.6:
   version "16.8.6"
