@@ -3101,9 +3101,9 @@ decamelize@^2.0.0:
     xregexp "4.0.0"
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
-  integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
+  integrity sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==
 
 deep-diff@^0.3.5:
   version "0.3.8"
@@ -8112,10 +8112,10 @@ react-scripts@3.0.1:
   optionalDependencies:
     fsevents "2.0.6"
 
-react-timestamp@^5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/react-timestamp/-/react-timestamp-5.0.0.tgz#9469ae05713c01a4785dc2d12f9e6a84bd62bd25"
-  integrity sha512-Ig+LbeJn1BhGrGNh8qlbI0r4QcX/8BBphlmKF1w0HGEtBFR4Ge3NIASNm5TmsxPujUHgAKjgf0bnMD2LKdhGcQ==
+react-timestamp@^4.4.0:
+  version "4.4.0"
+  resolved "https://registry.yarnpkg.com/react-timestamp/-/react-timestamp-4.4.0.tgz#9fd6d48929924dc9b0b9665fe56bee9fb26fda74"
+  integrity sha512-nEEZ44RMR+NmjVm60z6+iZW12mJwQLNnW4t+eEce+LyTtNSyRRUzA0drX5j4hFva2qq+SR9IaFANaGZE5ZeZMw==
 
 react@^16.8.6:
   version "16.8.6"
